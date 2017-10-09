@@ -121,6 +121,7 @@ based on:       Switch Theme for Launchbox by Grila
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<lineSpacing>2.3</lineSpacing>
+			<scrollSound>./assets/Move.wav</scrollSound>
 		</textlist>	
 
 	</view>
@@ -204,6 +205,7 @@ based on:       Switch Theme for Launchbox by Grila
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<lineSpacing>2.3</lineSpacing>
+			<scrollSound>./assets/Move.wav</scrollSound>
 		</textlist>	
 <!-------------PLAYCOUNT----------------->
 		<text name="md_lbl_playcount">
