@@ -1,6 +1,10 @@
 # Switch-Light
 Theme for EmulationStation and RetroPie
 
+Updates
+-------
+8/8/18 - Updated Icons with a more modern feel.
+
 About
 -----
 
