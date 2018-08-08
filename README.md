@@ -14,13 +14,13 @@ Images
 ------
 
 *Gameboy System View*
-![Image](http://i.imgur.com/OVgUAXf.png)
+![Image](https://i.imgur.com/yOK4rlQ.png)
 
 *SNES Detailed View*
-![Image](http://i.imgur.com/YTs1xDr.png)
+![Image](https://i.imgur.com/3kntR0H.png)
 
 *Gameboy Basic View*
-![Image](http://i.imgur.com/QrLnVmp.png)
+![Image](https://i.imgur.com/YFy9IhT.png)
 
 Artwork
 -------
