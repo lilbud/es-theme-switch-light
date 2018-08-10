@@ -261,10 +261,14 @@ based on:       Switch Theme for Launchbox by Grila
 
     <text name="systemInfo">
       <backgroundColor>dddddd00</backgroundColor>
-      <color>00000000</color>
-      <fontPath></fontPath>
-      <fontSize>0.035</fontSize>
+      <color>3aa5ab</color>
+      <forceUppercase>0</forceUppercase>
+      <fontPath>./assets/Oxygen-Regular.ttf</fontPath>
+      <fontSize>0.03</fontSize>
+      <pos>0.5 0.75</pos>
+      <origin>0.5 0.5</origin>
     </text>
+
 
   </view>
 
