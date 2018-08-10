@@ -93,7 +93,7 @@ based on:       Switch Theme for Launchbox by Grila
 			<forceUppercase>0</forceUppercase>
 			<size>0.743 0.031</size>
 			<pos>0.034 0.065</pos>
-			<color>262626</color>
+			<color>2f2f2f</color>
 			<fontPath>./assets/Oxygen-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<alignment>left</alignment>
